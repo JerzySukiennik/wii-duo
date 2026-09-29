@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sound Test</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&family=VT323&display=swap">
+<link rel="stylesheet" href="css/style.css">
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js"}}</script>
+<style>body{overflow:auto;background:#000030;padding:20px} h1{color:#ff0;text-shadow:3px 3px 0 #f0f;margin:0 0 6px} table{border-collapse:collapse;width:100%;color:#000}
+td,th{padding:4px 8px;border-bottom:1px solid #808080;text-align:left;font-size:17px} th{background:linear-gradient(90deg,#000080,#1084d0);color:#fff}
+tr.g td{background:#000;color:#0f0;font-family:VT323,monospace;font-size:22px} .box{margin-top:10px} a{color:#036}</style></head>
+<body><h1>Sound Test ~*~</h1>
+<div style="color:#0ff;margin-bottom:10px">Click a name to play. Loops keep playing until you click again. Volume is the same as in the games.</div>
+<div class="box"><table id="t"><tr><th>id</th><th>type</th><th>sound</th><th>by</th><th>licence</th></tr></table></div>
+<script type="module">
+import { loadSounds, snd, loopSnd, music, hasSound } from './js/common.js';
+const man = await (await fetch('sounds/manifest.json')).json();
+const cred = await (await fetch('sounds/credits.json')).json().catch(() => ({}));
+const groups = [['MUSIC', (k) => k.startsWith('music_')], ['LOOPS', (k) => man[k].loop && !k.startsWith('music_')], ['ONE-SHOTS', (k) => !man[k].loop]];
+const t = document.getElementById('t'); const running = {};
+await loadSounds();
+for (const [name, f] of groups) {
+  const r = t.insertRow(); r.className = 'g'; r.innerHTML = `<td colspan="5">== ${name} ==</td>`;
+  for (const id of Object.keys(man).filter(f).sort()) {
+    const c = cred[id] || {}, row = t.insertRow();
+    row.innerHTML = `<td><button class="btn" style="font-size:16px;padding:2px 10px">&#9654; ${id}</button></td><td>${name === 'MUSIC' ? 'music' : man[id].loop ? 'loop' : 'once'}</td><td>${c.source ? `<a href="${c.source}" target="_blank">${c.title || ''}</a>` : c.title || ''}</td><td>${c.author || ''}</td><td>${c.license || ''}</td>`;
+    row.querySelector('button').onclick = (e) => {
+      const b = e.currentTarget;
+      if (name === 'MUSIC') { if (running.music === id) { music.stop(); running.music = null; b.style.background = ''; } else { music.play(id.replace('music_', '')); running.music = id; b.style.background = '#a6ffa6'; } return; }
+      if (man[id].loop) { if (running[id]) { running[id].stop(); delete running[id]; b.style.background = ''; } else { running[id] = loopSnd(id); b.style.background = '#a6ffa6'; } return; }
+      snd(id);
+    };
+  }
+}
+</script></body></html>

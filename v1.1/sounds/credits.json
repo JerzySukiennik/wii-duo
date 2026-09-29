@@ -1,0 +1,356 @@
+{
+ "alarm_klaxon": {
+  "author": "Kinoton",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Kinoton/sounds/350508/",
+  "title": "Red Alert Klaxon"
+ },
+ "alarm_siren": {
+  "author": "onderwish",
+  "license": "CC0",
+  "source": "https://freesound.org/people/onderwish/sounds/470504/",
+  "title": "Emergency Siren"
+ },
+ "alert_sting": {
+  "author": "OverlookHotelRecords",
+  "license": "CC0",
+  "source": "https://freesound.org/people/OverlookHotelRecords/sounds/271945/",
+  "title": "Stingers and Stabs 001.wav"
+ },
+ "bell_ding": {
+  "author": "craigsmith",
+  "license": "CC0",
+  "source": "https://freesound.org/people/craigsmith/sounds/438626/",
+  "title": "G39-09-Boxing Fight Bell.wav"
+ },
+ "birds_loop": {
+  "author": "vdr3",
+  "license": "CC0",
+  "source": "https://freesound.org/people/vdr3/sounds/393699/",
+  "title": "Birds Loop"
+ },
+ "block_thud": {
+  "author": "D4XX",
+  "license": "CC0",
+  "source": "https://freesound.org/people/D4XX/sounds/607283/",
+  "title": "knock out 2"
+ },
+ "bolt_done": {
+  "author": "Anthousai",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Anthousai/sounds/399011/",
+  "title": "wrench 02.wav"
+ },
+ "bomb_beep_fast": {
+  "author": "Nbs Dark",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Nbs%20Dark/sounds/91898/",
+  "title": "Digital.wav"
+ },
+ "bomb_tick": {
+  "author": "olver",
+  "license": "CC0",
+  "source": "https://freesound.org/people/olver/sounds/130388/",
+  "title": "Clock ticking"
+ },
+ "clank_grab": {
+  "author": "Skullsmasha",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Skullsmasha/sounds/123253/",
+  "title": "MechanicalClamp.wav"
+ },
+ "count_beep": {
+  "author": "snakebarney",
+  "license": "CC0",
+  "source": "https://freesound.org/people/snakebarney/sounds/138108/",
+  "title": "Bomb Countdown Beeps"
+ },
+ "count_go": {
+  "author": "snakebarney",
+  "license": "CC0",
+  "source": "https://freesound.org/people/snakebarney/sounds/138108/",
+  "title": "Bomb Countdown Beeps"
+ },
+ "crowd_cheer": {
+  "author": "jayfrosting",
+  "license": "CC0",
+  "source": "https://freesound.org/people/jayfrosting/sounds/333404/",
+  "title": "Cheer 2.wav"
+ },
+ "crowd_loop": {
+  "author": "FunWithSound",
+  "license": "CC0",
+  "source": "https://freesound.org/people/FunWithSound/sounds/381373/",
+  "title": "Crowd Talking Quietly Stadium.mp3"
+ },
+ "defuse_ok": {
+  "author": "Jofae",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Jofae/sounds/368651/",
+  "title": "Game Powerup"
+ },
+ "door_open": {
+  "author": "pointparkcinema",
+  "license": "CC0",
+  "source": "https://freesound.org/people/pointparkcinema/sounds/402500/",
+  "title": "door, open, space hatch, hydraulic.wav"
+ },
+ "drone_hum_loop": {
+  "author": "timsc",
+  "license": "CC0",
+  "source": "https://freesound.org/people/timsc/sounds/332036/",
+  "title": "Parrot AR drone 2.0 take off, flight and landing"
+ },
+ "explosion": {
+  "author": "modusmogulus",
+  "license": "CC0",
+  "source": "https://freesound.org/people/modusmogulus/sounds/784205/",
+  "title": "Cartoon Explosion (designed on cassette tape lol)"
+ },
+ "hack_blip": {
+  "author": "waveplaySFX",
+  "license": "CC0",
+  "source": "https://freesound.org/people/waveplaySFX/sounds/246420/",
+  "title": "[Media] game sound sfx (short, generic, menu)"
+ },
+ "hack_ok": {
+  "author": "suntemple",
+  "license": "CC0",
+  "source": "https://freesound.org/people/suntemple/sounds/253177/",
+  "title": "Retro \"Accomplished\" SFX"
+ },
+ "hack_wrong": {
+  "author": "Jacco18",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Jacco18/sounds/419023/",
+  "title": "acess denied buzz"
+ },
+ "hurt_ouch": {
+  "author": "qdo",
+  "license": "CC0",
+  "source": "https://freesound.org/people/qdo/sounds/528732/",
+  "title": "oof - qdo.wav"
+ },
+ "ko_hit": {
+  "author": "Kane53126",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Kane53126/sounds/257928/",
+  "title": "Body Thud.wav"
+ },
+ "log_crash": {
+  "author": "Nox_Sound",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Nox_Sound/sounds/554128/",
+  "title": "Foley_Wood_Log_Small_Fall_CloseGround_Stereo_DR05.wav"
+ },
+ "loot_chime": {
+  "author": "LaurenPonder",
+  "license": "CC0",
+  "source": "https://freesound.org/people/LaurenPonder/sounds/639429/",
+  "title": "Crystal Twinkle"
+ },
+ "lose_sting": {
+  "author": "TaranP",
+  "license": "CC0",
+  "source": "https://freesound.org/people/TaranP/sounds/362205/",
+  "title": "horn_fail_wahwah_2.wav"
+ },
+ "metal_hit_1": {
+  "author": "ani_music",
+  "license": "CC0",
+  "source": "https://freesound.org/people/ani_music/sounds/244983/",
+  "title": "ANI Big Pipe Hit"
+ },
+ "metal_hit_2": {
+  "author": "eben-frostey",
+  "license": "CC0",
+  "source": "https://freesound.org/people/eben-frostey/sounds/435681/",
+  "title": "Metallic Clang"
+ },
+ "metronome_tick": {
+  "author": "Druminfected",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Druminfected/sounds/250552/",
+  "title": "Metronome.wav"
+ },
+ "music_bomb": {
+  "author": "Bertsz",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Bertsz/sounds/672782/",
+  "title": "cyberpunk_heist.mp3"
+ },
+ "music_boxing": {
+  "author": "Ncone",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Ncone/sounds/723173/",
+  "title": "Funky Beats 2"
+ },
+ "music_heist": {
+  "author": "Bertsz",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Bertsz/sounds/545454/",
+  "title": "Chiptune Heist Music"
+ },
+ "music_lumberjacks": {
+  "author": "BullSam",
+  "license": "CC0",
+  "source": "https://freesound.org/people/BullSam/sounds/509495/",
+  "title": "Banjo Melody.wav"
+ },
+ "music_menu": {
+  "author": "cabled_mess",
+  "license": "CC0",
+  "source": "https://freesound.org/people/cabled_mess/sounds/335361/",
+  "title": "Little, happy tune - 22.10.2015"
+ },
+ "music_paperplane": {
+  "author": "TheWandermiles",
+  "license": "CC0",
+  "source": "https://freesound.org/people/TheWandermiles/sounds/449812/",
+  "title": "Acoustic Guitar and Keys - Plains Soundtrack"
+ },
+ "music_station": {
+  "author": "szegvari",
+  "license": "CC0",
+  "source": "https://freesound.org/people/szegvari/sounds/568612/",
+  "title": "Space Bar Ambient"
+ },
+ "paper_bonk": {
+  "author": "facklere",
+  "license": "CC0",
+  "source": "https://freesound.org/people/facklere/sounds/458572/",
+  "title": "Bonk.wav"
+ },
+ "popup_pop": {
+  "author": "unfa",
+  "license": "CC0",
+  "source": "https://freesound.org/people/unfa/sounds/245645/",
+  "title": "Cartoon Pop (Clean)"
+ },
+ "punch_1": {
+  "author": "newagesoup",
+  "license": "CC0",
+  "source": "https://freesound.org/people/newagesoup/sounds/348244/",
+  "title": "PUNCH-BOXING-01.wav"
+ },
+ "punch_2": {
+  "author": "newagesoup",
+  "license": "CC0",
+  "source": "https://freesound.org/people/newagesoup/sounds/348241/",
+  "title": "PUNCH-BOXING-04.wav"
+ },
+ "punch_3": {
+  "author": "newagesoup",
+  "license": "CC0",
+  "source": "https://freesound.org/people/newagesoup/sounds/348242/",
+  "title": "PUNCH-BOXING-03.wav"
+ },
+ "punch_miss_whoosh": {
+  "author": "qubodup",
+  "license": "CC0",
+  "source": "https://freesound.org/people/qubodup/sounds/60013/",
+  "title": "Whoosh"
+ },
+ "ratchet_click": {
+  "author": "BMacZero",
+  "license": "CC0",
+  "source": "https://freesound.org/people/BMacZero/sounds/94133/",
+  "title": "SqueakyClick1.wav"
+ },
+ "repair_done": {
+  "author": "LaurenPonder",
+  "license": "CC0",
+  "source": "https://freesound.org/people/LaurenPonder/sounds/635665/",
+  "title": "Achievment Chimes.wav"
+ },
+ "ring_chime": {
+  "author": "ZenithInfinitiveStudios",
+  "license": "CC0",
+  "source": "https://freesound.org/people/ZenithInfinitiveStudios/sounds/376745/",
+  "title": "Fantasy_ui_Button_3.wav"
+ },
+ "saw_pull_1": {
+  "author": "Pingel",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Pingel/sounds/9886/",
+  "title": "WoodSaw1.wav"
+ },
+ "saw_pull_2": {
+  "author": "Pingel",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Pingel/sounds/9886/",
+  "title": "WoodSaw1.wav"
+ },
+ "seat_clunk": {
+  "author": "7of9Designs",
+  "license": "CC0",
+  "source": "https://freesound.org/people/7of9Designs/sounds/640204/",
+  "title": "Heavy Metal Thud on Ground"
+ },
+ "servo_loop": {
+  "author": "peridactyloptrix",
+  "license": "CC0",
+  "source": "https://freesound.org/people/peridactyloptrix/sounds/188821/",
+  "title": "Servo noises"
+ },
+ "space_hum_loop": {
+  "author": "Karma-Ron",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Karma-Ron/sounds/130883/",
+  "title": "mysterion low ship humming.mp3"
+ },
+ "ui_click": {
+  "author": "Jummit",
+  "license": "CC0",
+  "source": "https://freesound.org/people/Jummit/sounds/528561/",
+  "title": "Soft UI Button Click"
+ },
+ "ui_select": {
+  "author": "CogFireStudios",
+  "license": "CC0",
+  "source": "https://freesound.org/people/CogFireStudios/sounds/531512/",
+  "title": "Positive Blip Effect"
+ },
+ "whoosh_pass": {
+  "author": "florianreichelt",
+  "license": "CC0",
+  "source": "https://freesound.org/people/florianreichelt/sounds/683096/",
+  "title": "Woosh"
+ },
+ "win_jingle": {
+  "author": "el_boss",
+  "license": "CC0",
+  "source": "https://freesound.org/people/el_boss/sounds/677859/",
+  "title": "Game Success Fanfare"
+ },
+ "wind_loop": {
+  "author": "dhallcomposer",
+  "license": "CC0",
+  "source": "https://freesound.org/people/dhallcomposer/sounds/697217/",
+  "title": "Looping Gentle Wind Ambience on an Open Desert Plain.wav"
+ },
+ "wire_snip": {
+  "author": "megashroom",
+  "license": "CC0",
+  "source": "https://freesound.org/people/megashroom/sounds/390165/",
+  "title": "Scissors Snipping in Air 170427_1457.wav"
+ },
+ "wire_wrong": {
+  "author": "guitarguy1985",
+  "license": "CC0",
+  "source": "https://freesound.org/people/guitarguy1985/sounds/54047/",
+  "title": "buzzer.wav"
+ },
+ "wood_chop": {
+  "author": "kyles",
+  "license": "CC0",
+  "source": "https://freesound.org/people/kyles/sounds/452554/",
+  "title": "axe chop into wood little debris.wav"
+ },
+ "zap_plug": {
+  "author": "michael_grinnell",
+  "license": "CC0",
+  "source": "https://freesound.org/people/michael_grinnell/sounds/512471/",
+  "title": "Electric zap.wav"
+ }
+}

@@ -1,0 +1,63 @@
+# Sound credits
+
+Sounds fetched from Freesound (CC0 unless noted) and other listed sources. Trimmed and normalised for the game.
+
+- `alarm_klaxon` — "Red Alert Klaxon" by Kinoton (CC0) https://freesound.org/people/Kinoton/sounds/350508/
+- `alarm_siren` — "Emergency Siren" by onderwish (CC0) https://freesound.org/people/onderwish/sounds/470504/
+- `alert_sting` — "Stingers and Stabs 001.wav" by OverlookHotelRecords (CC0) https://freesound.org/people/OverlookHotelRecords/sounds/271945/
+- `bell_ding` — "G39-09-Boxing Fight Bell.wav" by craigsmith (CC0) https://freesound.org/people/craigsmith/sounds/438626/
+- `birds_loop` — "Birds Loop" by vdr3 (CC0) https://freesound.org/people/vdr3/sounds/393699/
+- `block_thud` — "knock out 2" by D4XX (CC0) https://freesound.org/people/D4XX/sounds/607283/
+- `bolt_done` — "wrench 02.wav" by Anthousai (CC0) https://freesound.org/people/Anthousai/sounds/399011/
+- `bomb_beep_fast` — "Digital.wav" by Nbs Dark (CC0) https://freesound.org/people/Nbs%20Dark/sounds/91898/
+- `bomb_tick` — "Clock ticking" by olver (CC0) https://freesound.org/people/olver/sounds/130388/
+- `clank_grab` — "MechanicalClamp.wav" by Skullsmasha (CC0) https://freesound.org/people/Skullsmasha/sounds/123253/
+- `count_beep` — "Bomb Countdown Beeps" by snakebarney (CC0) https://freesound.org/people/snakebarney/sounds/138108/
+- `count_go` — "Bomb Countdown Beeps" by snakebarney (CC0) https://freesound.org/people/snakebarney/sounds/138108/
+- `crowd_cheer` — "Cheer 2.wav" by jayfrosting (CC0) https://freesound.org/people/jayfrosting/sounds/333404/
+- `crowd_loop` — "Crowd Talking Quietly Stadium.mp3" by FunWithSound (CC0) https://freesound.org/people/FunWithSound/sounds/381373/
+- `defuse_ok` — "Game Powerup" by Jofae (CC0) https://freesound.org/people/Jofae/sounds/368651/
+- `door_open` — "door, open, space hatch, hydraulic.wav" by pointparkcinema (CC0) https://freesound.org/people/pointparkcinema/sounds/402500/
+- `drone_hum_loop` — "Parrot AR drone 2.0 take off, flight and landing" by timsc (CC0) https://freesound.org/people/timsc/sounds/332036/
+- `explosion` — "Cartoon Explosion (designed on cassette tape lol)" by modusmogulus (CC0) https://freesound.org/people/modusmogulus/sounds/784205/
+- `hack_blip` — "[Media] game sound sfx (short, generic, menu)" by waveplaySFX (CC0) https://freesound.org/people/waveplaySFX/sounds/246420/
+- `hack_ok` — "Retro "Accomplished" SFX" by suntemple (CC0) https://freesound.org/people/suntemple/sounds/253177/
+- `hack_wrong` — "acess denied buzz" by Jacco18 (CC0) https://freesound.org/people/Jacco18/sounds/419023/
+- `hurt_ouch` — "oof - qdo.wav" by qdo (CC0) https://freesound.org/people/qdo/sounds/528732/
+- `ko_hit` — "Body Thud.wav" by Kane53126 (CC0) https://freesound.org/people/Kane53126/sounds/257928/
+- `log_crash` — "Foley_Wood_Log_Small_Fall_CloseGround_Stereo_DR05.wav" by Nox_Sound (CC0) https://freesound.org/people/Nox_Sound/sounds/554128/
+- `loot_chime` — "Crystal Twinkle" by LaurenPonder (CC0) https://freesound.org/people/LaurenPonder/sounds/639429/
+- `lose_sting` — "horn_fail_wahwah_2.wav" by TaranP (CC0) https://freesound.org/people/TaranP/sounds/362205/
+- `metal_hit_1` — "ANI Big Pipe Hit" by ani_music (CC0) https://freesound.org/people/ani_music/sounds/244983/
+- `metal_hit_2` — "Metallic Clang" by eben-frostey (CC0) https://freesound.org/people/eben-frostey/sounds/435681/
+- `metronome_tick` — "Metronome.wav" by Druminfected (CC0) https://freesound.org/people/Druminfected/sounds/250552/
+- `music_bomb` — "cyberpunk_heist.mp3" by Bertsz (CC0) https://freesound.org/people/Bertsz/sounds/672782/
+- `music_boxing` — "Funky Beats 2" by Ncone (CC0) https://freesound.org/people/Ncone/sounds/723173/
+- `music_heist` — "Chiptune Heist Music" by Bertsz (CC0) https://freesound.org/people/Bertsz/sounds/545454/
+- `music_lumberjacks` — "Banjo Melody.wav" by BullSam (CC0) https://freesound.org/people/BullSam/sounds/509495/
+- `music_menu` — "Little, happy tune - 22.10.2015" by cabled_mess (CC0) https://freesound.org/people/cabled_mess/sounds/335361/
+- `music_paperplane` — "Acoustic Guitar and Keys - Plains Soundtrack" by TheWandermiles (CC0) https://freesound.org/people/TheWandermiles/sounds/449812/
+- `music_station` — "Space Bar Ambient" by szegvari (CC0) https://freesound.org/people/szegvari/sounds/568612/
+- `paper_bonk` — "Bonk.wav" by facklere (CC0) https://freesound.org/people/facklere/sounds/458572/
+- `popup_pop` — "Cartoon Pop (Clean)" by unfa (CC0) https://freesound.org/people/unfa/sounds/245645/
+- `punch_1` — "PUNCH-BOXING-01.wav" by newagesoup (CC0) https://freesound.org/people/newagesoup/sounds/348244/
+- `punch_2` — "PUNCH-BOXING-04.wav" by newagesoup (CC0) https://freesound.org/people/newagesoup/sounds/348241/
+- `punch_3` — "PUNCH-BOXING-03.wav" by newagesoup (CC0) https://freesound.org/people/newagesoup/sounds/348242/
+- `punch_miss_whoosh` — "Whoosh" by qubodup (CC0) https://freesound.org/people/qubodup/sounds/60013/
+- `ratchet_click` — "SqueakyClick1.wav" by BMacZero (CC0) https://freesound.org/people/BMacZero/sounds/94133/
+- `repair_done` — "Achievment Chimes.wav" by LaurenPonder (CC0) https://freesound.org/people/LaurenPonder/sounds/635665/
+- `ring_chime` — "Fantasy_ui_Button_3.wav" by ZenithInfinitiveStudios (CC0) https://freesound.org/people/ZenithInfinitiveStudios/sounds/376745/
+- `saw_pull_1` — "WoodSaw1.wav" by Pingel (CC0) https://freesound.org/people/Pingel/sounds/9886/
+- `saw_pull_2` — "WoodSaw1.wav" by Pingel (CC0) https://freesound.org/people/Pingel/sounds/9886/
+- `seat_clunk` — "Heavy Metal Thud on Ground" by 7of9Designs (CC0) https://freesound.org/people/7of9Designs/sounds/640204/
+- `servo_loop` — "Servo noises" by peridactyloptrix (CC0) https://freesound.org/people/peridactyloptrix/sounds/188821/
+- `space_hum_loop` — "mysterion low ship humming.mp3" by Karma-Ron (CC0) https://freesound.org/people/Karma-Ron/sounds/130883/
+- `ui_click` — "Soft UI Button Click" by Jummit (CC0) https://freesound.org/people/Jummit/sounds/528561/
+- `ui_select` — "Positive Blip Effect" by CogFireStudios (CC0) https://freesound.org/people/CogFireStudios/sounds/531512/
+- `whoosh_pass` — "Woosh" by florianreichelt (CC0) https://freesound.org/people/florianreichelt/sounds/683096/
+- `win_jingle` — "Game Success Fanfare" by el_boss (CC0) https://freesound.org/people/el_boss/sounds/677859/
+- `wind_loop` — "Looping Gentle Wind Ambience on an Open Desert Plain.wav" by dhallcomposer (CC0) https://freesound.org/people/dhallcomposer/sounds/697217/
+- `wire_snip` — "Scissors Snipping in Air 170427_1457.wav" by megashroom (CC0) https://freesound.org/people/megashroom/sounds/390165/
+- `wire_wrong` — "buzzer.wav" by guitarguy1985 (CC0) https://freesound.org/people/guitarguy1985/sounds/54047/
+- `wood_chop` — "axe chop into wood little debris.wav" by kyles (CC0) https://freesound.org/people/kyles/sounds/452554/
+- `zap_plug` — "Electric zap.wav" by michael_grinnell (CC0) https://freesound.org/people/michael_grinnell/sounds/512471/

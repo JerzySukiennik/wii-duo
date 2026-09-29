@@ -1,0 +1,16 @@
+export const GAMES = [
+  { id: 'paperplane', emoji: '✈️', title: 'Paper Plane Squadron', tag: 'Two planes. One string. Do NOT tangle!',
+    how: 'Tilt your remote to fly. Squeeze through the holes together.', load: () => import('./paperplane.js') },
+  { id: 'station', emoji: '🛰️', title: 'Space Station Repair', tag: 'Fix the station. Two robot arms. Zero panic.',
+    how: 'Tilt to move your arm · hold A to grab · hold B to twist bolts.', load: () => import('./station.js') },
+  { id: 'heist', emoji: '🕵️', title: 'Heist Duo', tag: 'Fly the drone. Hack the doors. Tiptoe!',
+    how: 'P1 tilts the drone · P2 points + A to hack the glowing dots.', load: () => import('./heist.js') },
+  { id: 'bomb', emoji: '💣', title: 'Bomb Squad', tag: 'Steady hands + snippy pointer = no boom.',
+    how: 'P1 tilts to keep the hand steady · P2 points + A to snip wires.', load: () => import('./bomb.js') },
+  { id: 'lumberjacks', emoji: '🪓', title: 'Lumberjacks', tag: 'Saw together. Sweat together. TIMBER!',
+    how: 'Swing your remote when the saw reaches YOUR side.', load: () => import('./lumberjacks.js') },
+  { id: 'boxing', emoji: '🥊', title: 'Boxing Sparring', tag: 'Punch the dummies. Be nice to each other.',
+    how: 'Swing to punch (forward = JAB, side = HOOK, up = UPPER) · hold B to block.', load: () => import('./boxing.js') },
+  { id: 'hush', emoji: '\u{1F47B}', title: 'HUSH', tag: '3:07 AM. Storm. Dark house. Do not make a sound.', href: 'hush/index.html', solo: true,
+    how: '1 PLAYER \u00b7 spooky! Wiimote (IR aim) or keyboard \u00b7 headphones + lights off recommended.' },
+];

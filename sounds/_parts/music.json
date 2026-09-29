@@ -1,0 +1,79 @@
+[
+ {
+  "id": "music_menu",
+  "file": "music_menu.mp3",
+  "loop": true,
+  "gain": 0.6,
+  "title": "Little, happy tune - 22.10.2015",
+  "author": "cabled_mess",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://freesound.org/people/cabled_mess/sounds/335361/"
+ },
+ {
+  "id": "music_paperplane",
+  "file": "music_paperplane.mp3",
+  "loop": true,
+  "gain": 0.6,
+  "title": "Acoustic Guitar and Keys - Plains Soundtrack",
+  "author": "TheWandermiles",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://freesound.org/people/TheWandermiles/sounds/449812/"
+ },
+ {
+  "id": "music_station",
+  "file": "music_station.mp3",
+  "loop": true,
+  "gain": 0.6,
+  "title": "Space Bar Ambient",
+  "author": "szegvari",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://freesound.org/people/szegvari/sounds/568612/"
+ },
+ {
+  "id": "music_heist",
+  "file": "music_heist.mp3",
+  "loop": true,
+  "gain": 0.6,
+  "title": "Chiptune Heist Music",
+  "author": "Bertsz",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://freesound.org/people/Bertsz/sounds/545454/"
+ },
+ {
+  "id": "music_bomb",
+  "file": "music_bomb.mp3",
+  "loop": true,
+  "gain": 0.6,
+  "title": "cyberpunk_heist.mp3",
+  "author": "Bertsz",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://freesound.org/people/Bertsz/sounds/672782/"
+ },
+ {
+  "id": "music_lumberjacks",
+  "file": "music_lumberjacks.mp3",
+  "loop": true,
+  "gain": 0.6,
+  "title": "Banjo Melody.wav",
+  "author": "BullSam",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://freesound.org/people/BullSam/sounds/509495/"
+ },
+ {
+  "id": "music_boxing",
+  "file": "music_boxing.mp3",
+  "loop": true,
+  "gain": 0.6,
+  "title": "Funky Beats 2",
+  "author": "Ncone",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://freesound.org/people/Ncone/sounds/723173/"
+ }
+]

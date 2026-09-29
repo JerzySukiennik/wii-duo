@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wii-Duo</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@400;700&family=VT323&display=swap">
+<link rel="stylesheet" href="css/style.css">
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js"}}</script>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div id="hud"></div>
+<div id="toast" class="hidden"></div>
+<div id="menu">
+  <div class="marquee"><span>*** WELCOME 2 THE GZOWO SPACE ARCADE *** 2 PLAYERS ~ 1 TV ~ 2 WIIMOTES *** SIGN MY GUESTBOOK *** NO REFUNDS *** 100% FREE *** </span></div>
+  <div class="wrap">
+    <h1 class="title rainbow">Wii-Duo!!</h1>
+    <div class="tagline">~*~ Two remotes. One TV. <b>Zero excuses.</b> ~*~ <span class="blink">&#9733; NEW! &#9733;</span></div>
+    <div class="bar">
+      <button class="btn blue" id="connect">&#128268; Connect Wiimotes</button>
+      <button class="btn" id="mus">Music</button>
+      <button class="btn pink" id="kbd">&#9000; Keyboard mode</button>
+      <span class="chip off" id="chip0">P1: nobody yet</span>
+      <span class="chip off" id="chip1">P2: nobody yet</span>
+      <div class="hint" id="hint"></div>
+    </div>
+    <div class="counter">You are visitor number <span id="visits">000001</span></div>
+    <br>
+    <div id="cards"></div>
+    <div class="construction"><div>&#128679; THIS SITE IS UNDER CONSTRUCTION &#128679; (more games soon!!)</div></div>
+    <div class="foot">Best viewed in Chrome at 800x600 &middot; &copy; 1998 Gzowo Labs &middot; made with love &amp; 2 Wiimotes</div>
+  </div>
+</div>
+<div id="overlay" class="hidden"><div class="box"><div class="titlebar"><span>Wii-Duo.exe</span><span class="x">x</span></div><div class="inner"><h2 id="ovT"></h2><div class="lines" id="ovL"></div><div class="keys" id="ovK"></div></div></div></div>
+<div id="ready" class="hidden"><div class="box"><div class="titlebar"><span id="rTitle">Get Ready.exe</span><span class="x">x</span></div><div class="inner"><div id="rHow"></div><div id="rNum"></div><div id="rPlayers"><span class="tag p1">P1 = BLUE</span> <span class="tag p2">P2 = PINK</span></div><div class="dim">Tilt is centered when the countdown ends: hold your remote how you like!</div></div></div></div>
+<div id="cursors"></div>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HUSH</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="css/style.css">
+<script type="importmap">
+{
+  "imports": {
+    "three": "./vendor/three.module.js",
+    "three/addons/": "./vendor/addons/"
+  }
+}
+</script>
+</head>
+<body>
+<div id="stage"></div>
+
+<!-- diegetic-ish overlays -->
+<div id="hide-slats" class="overlay"></div>
+<div id="hide-bed" class="overlay"></div>
+<div id="flash" class="overlay"></div>
+<div id="black" class="overlay"></div>
+
+<div id="reticle"></div>
+<div id="prompt"></div>
+<div id="caption"></div>
+<div id="objective"></div>
+<div id="clock" class="overlay"><span>3:07 AM</span></div>
+
+<div id="pause" class="overlay screen hidden">
+  <div class="col">
+    <p class="dim">paused</p>
+    <p class="big">click to go back in</p>
+    <p class="dim small">it is still there</p>
+  </div>
+</div>
+
+<div id="loading" class="overlay screen">
+  <div class="col"><p class="dim small" id="loading-text">loading…</p></div>
+</div>
+
+<div id="title" class="overlay screen hidden">
+  <div class="col">
+    <h1>HUSH</h1>
+    <p class="sub">It hears you.</p>
+    <div class="rules">
+      <p>Headphones on. Lights off. Alone.</p>
+      <p class="dim small">Contains flashing lights and sudden loud sounds.</p>
+    </div>
+    <label class="mic"><input type="checkbox" id="mic-toggle"> <span>Let it hear you <em>(microphone. Nothing is recorded or sent anywhere. It only listens.)</em></span></label>
+    <div class="wii">
+      <button id="wii-connect" class="small-btn hidden">Connect Wii Remote</button>
+      <p class="dim small" id="wii-status"></p>
+    </div>
+    <button id="begin">Begin</button>
+    <div class="keys dim small">
+      <span class="kb">WASD move</span><span>Shift run</span><span>C crouch</span><span>F flashlight</span><span>E use / hide</span><span>Space hold breath</span>
+    </div>
+  </div>
+</div>
+
+<div id="end" class="overlay screen hidden">
+  <div class="col">
+    <p class="big" id="end-title"></p>
+    <p class="dim" id="end-sub"></p>
+    <button id="again">Wake up again</button>
+    <p class="dim small credits">Sounds from Freesound (CC0) — stingers by SirBedlam (CC-BY 3.0) — full list in sounds/CREDITS.md &middot; Textures: Poly Haven (CC0)</p>
+  </div>
+</div>
+
+<a id="wd-back" href="../index.html" style="position:fixed;top:10px;left:12px;z-index:99;font:13px monospace;color:#888;opacity:.45;text-decoration:none">&lt; Wii-Duo</a>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

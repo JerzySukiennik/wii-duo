@@ -1,0 +1,466 @@
+{
+  "amb_house": {
+    "file": "amb_house.mp3",
+    "loop": true,
+    "gain": 0.35,
+    "license": "CC0",
+    "author": "Lublb",
+    "source": "https://freesound.org/people/Lublb/sounds/656629/"
+  },
+  "amb_rain": {
+    "file": "amb_rain.mp3",
+    "loop": true,
+    "gain": 0.5,
+    "license": "CC0",
+    "author": "TRP",
+    "source": "https://freesound.org/people/TRP/sounds/717572/"
+  },
+  "amb_wind": {
+    "file": "amb_wind.mp3",
+    "loop": true,
+    "gain": 0.45,
+    "license": "CC0",
+    "author": "swiftoid",
+    "source": "https://freesound.org/people/swiftoid/sounds/117611/"
+  },
+  "bones_crack": {
+    "file": "bones_crack.mp3",
+    "loop": false,
+    "gain": 1.0,
+    "license": "CC0",
+    "author": "SMuntsinger, pwausc1",
+    "source": "https://freesound.org/people/SMuntsinger/sounds/449608/"
+  },
+  "breaker": {
+    "file": "breaker.mp3",
+    "loop": false,
+    "gain": 0.85,
+    "license": "CC0",
+    "author": "EchoCinematics",
+    "source": "https://freesound.org/people/EchoCinematics/sounds/131599/"
+  },
+  "bulb_pop": {
+    "file": "bulb_pop.mp3",
+    "loop": false,
+    "gain": 0.8,
+    "license": "CC0",
+    "author": "kyles",
+    "source": "https://freesound.org/people/kyles/sounds/637659/"
+  },
+  "child_laugh": {
+    "file": "child_laugh.mp3",
+    "loop": false,
+    "gain": 0.6,
+    "license": "CC0",
+    "author": "kim.headlee",
+    "source": "https://freesound.org/people/kim.headlee/sounds/184616/"
+  },
+  "clock_chime": {
+    "file": "clock_chime.mp3",
+    "loop": false,
+    "gain": 0.7,
+    "license": "CC0",
+    "author": "3bagbrew",
+    "source": "https://freesound.org/people/3bagbrew/sounds/609763/"
+  },
+  "clock_tick": {
+    "file": "clock_tick.mp3",
+    "loop": true,
+    "gain": 0.5,
+    "license": "CC0",
+    "author": "3bagbrew",
+    "source": "https://freesound.org/people/3bagbrew/sounds/609763/"
+  },
+  "creak_1": {
+    "file": "creak_1.mp3",
+    "loop": false,
+    "gain": 0.6,
+    "license": "CC0",
+    "author": "qubodup",
+    "source": "https://freesound.org/people/qubodup/sounds/802593/"
+  },
+  "creak_2": {
+    "file": "creak_2.mp3",
+    "loop": false,
+    "gain": 0.6,
+    "license": "CC0",
+    "author": "qubodup",
+    "source": "https://freesound.org/people/qubodup/sounds/802594/"
+  },
+  "creak_3": {
+    "file": "creak_3.mp3",
+    "loop": false,
+    "gain": 0.6,
+    "license": "CC0",
+    "author": "Rudmer_Rotteveel",
+    "source": "https://freesound.org/people/Rudmer_Rotteveel/sounds/502511/"
+  },
+  "crying": {
+    "file": "crying.mp3",
+    "loop": false,
+    "gain": 0.55,
+    "license": "CC0",
+    "author": "purplereptar",
+    "source": "https://freesound.org/people/purplereptar/sounds/449439/"
+  },
+  "door_close": {
+    "file": "door_close.mp3",
+    "loop": false,
+    "gain": 0.8,
+    "license": "CC0",
+    "author": "N-RAZM",
+    "source": "https://freesound.org/people/N-RAZM/sounds/400330/"
+  },
+  "door_creak_1": {
+    "file": "door_creak_1.mp3",
+    "loop": false,
+    "gain": 0.8,
+    "license": "CC0",
+    "author": "rambler52",
+    "source": "https://freesound.org/people/rambler52/sounds/455319/"
+  },
+  "door_creak_2": {
+    "file": "door_creak_2.mp3",
+    "loop": false,
+    "gain": 0.8,
+    "license": "CC0",
+    "author": "CastIronCarousel",
+    "source": "https://freesound.org/people/CastIronCarousel/sounds/216881/"
+  },
+  "door_slam": {
+    "file": "door_slam.mp3",
+    "loop": false,
+    "gain": 1.0,
+    "license": "CC0",
+    "author": "NachtmahrTV",
+    "source": "https://freesound.org/people/NachtmahrTV/sounds/571797/"
+  },
+  "drone_dread": {
+    "file": "drone_dread.mp3",
+    "loop": true,
+    "gain": 0.4,
+    "license": "CC0",
+    "author": "burning-mir",
+    "source": "https://freesound.org/people/burning-mir/sounds/155142/"
+  },
+  "electric_hum": {
+    "file": "electric_hum.mp3",
+    "loop": true,
+    "gain": 0.3,
+    "license": "CC0",
+    "author": "zazz.sound.design",
+    "source": "https://freesound.org/people/zazz.sound.design/sounds/613566/"
+  },
+  "gasp": {
+    "file": "gasp.mp3",
+    "loop": false,
+    "gain": 0.7,
+    "license": "CC0",
+    "author": "bacruz666",
+    "source": "https://freesound.org/people/bacruz666/sounds/341908/"
+  },
+  "glass_bang": {
+    "file": "glass_bang.mp3",
+    "loop": false,
+    "gain": 0.95,
+    "license": "CC0",
+    "author": "Soundkrampf",
+    "source": "https://freesound.org/people/Soundkrampf/sounds/376607/"
+  },
+  "growl": {
+    "file": "growl.mp3",
+    "loop": false,
+    "gain": 0.85,
+    "license": "CC0",
+    "author": "husky70",
+    "source": "https://freesound.org/people/husky70/sounds/170454/"
+  },
+  "handle_rattle": {
+    "file": "handle_rattle.mp3",
+    "loop": false,
+    "gain": 1.0,
+    "license": "CC0",
+    "author": "jcdecha",
+    "source": "https://freesound.org/people/jcdecha/sounds/235473/"
+  },
+  "heartbeat": {
+    "file": "heartbeat.mp3",
+    "loop": false,
+    "gain": 0.8,
+    "license": "CC0",
+    "author": "Woodingp",
+    "source": "https://freesound.org/people/Woodingp/sounds/116642/"
+  },
+  "knock_3": {
+    "file": "knock_3.mp3",
+    "loop": false,
+    "gain": 1.0,
+    "license": "CC0",
+    "author": "Flem0527",
+    "source": "https://freesound.org/people/Flem0527/sounds/629986/"
+  },
+  "monster_breath": {
+    "file": "monster_breath.mp3",
+    "loop": true,
+    "gain": 1.0,
+    "license": "CC0",
+    "author": "iut_Paris8",
+    "source": "https://freesound.org/people/iut_Paris8/sounds/567723/"
+  },
+  "music_box": {
+    "file": "music_box.mp3",
+    "loop": false,
+    "gain": 0.6,
+    "license": "CC0",
+    "author": "Flying_Deer_Fx",
+    "source": "https://freesound.org/people/Flying_Deer_Fx/sounds/369148/"
+  },
+  "object_fall": {
+    "file": "object_fall.mp3",
+    "loop": false,
+    "gain": 0.85,
+    "license": "CC0",
+    "author": "MindlessTrails",
+    "source": "https://freesound.org/people/MindlessTrails/sounds/509531/"
+  },
+  "phone_pickup": {
+    "file": "phone_pickup.mp3",
+    "loop": false,
+    "gain": 0.7,
+    "license": "CC0",
+    "author": "_stubb",
+    "source": "https://freesound.org/people/_stubb/sounds/406233/"
+  },
+  "phone_ring": {
+    "file": "phone_ring.mp3",
+    "loop": true,
+    "gain": 0.8,
+    "license": "CC0",
+    "author": "Hockinfinger",
+    "source": "https://freesound.org/people/Hockinfinger/sounds/274436/"
+  },
+  "piano_low": {
+    "file": "piano_low.mp3",
+    "loop": false,
+    "gain": 0.7,
+    "license": "CC0",
+    "author": "alienistcog",
+    "source": "https://freesound.org/people/alienistcog/sounds/123713/"
+  },
+  "pickup": {
+    "file": "pickup.mp3",
+    "loop": false,
+    "gain": 0.6,
+    "license": "CC0",
+    "author": "nicktermer",
+    "source": "https://freesound.org/people/nicktermer/sounds/259553/"
+  },
+  "player_breath_scared": {
+    "file": "player_breath_scared.mp3",
+    "loop": true,
+    "gain": 0.7,
+    "license": "CC0",
+    "author": "deleted_user_2104797",
+    "source": "https://freesound.org/people/deleted_user_2104797/sounds/166125/"
+  },
+  "pstep_1": {
+    "file": "pstep_1.mp3",
+    "loop": false,
+    "gain": 0.45,
+    "license": "CC0",
+    "author": "Yuval",
+    "source": "https://freesound.org/people/Yuval/sounds/210770/"
+  },
+  "pstep_2": {
+    "file": "pstep_2.mp3",
+    "loop": false,
+    "gain": 0.45,
+    "license": "CC0",
+    "author": "Yuval",
+    "source": "https://freesound.org/people/Yuval/sounds/210770/"
+  },
+  "pstep_3": {
+    "file": "pstep_3.mp3",
+    "loop": false,
+    "gain": 0.45,
+    "license": "CC0",
+    "author": "Yuval",
+    "source": "https://freesound.org/people/Yuval/sounds/210770/"
+  },
+  "pstep_4": {
+    "file": "pstep_4.mp3",
+    "loop": false,
+    "gain": 0.45,
+    "license": "CC0",
+    "author": "Yuval",
+    "source": "https://freesound.org/people/Yuval/sounds/210770/"
+  },
+  "radio_static": {
+    "file": "radio_static.mp3",
+    "loop": true,
+    "gain": 0.4,
+    "license": "CC0",
+    "author": "cognito perceptu, RutgerMuller",
+    "source": "https://freesound.org/people/cognito%20perceptu/sounds/117140/"
+  },
+  "scratch": {
+    "file": "scratch.mp3",
+    "loop": false,
+    "gain": 0.7,
+    "license": "CC0",
+    "author": "fattirewhitey",
+    "source": "https://freesound.org/people/fattirewhitey/sounds/397127/"
+  },
+  "scream": {
+    "file": "scream.mp3",
+    "loop": false,
+    "gain": 1.0,
+    "license": "CC0",
+    "author": "Wakerone, nick121087, Breviceps",
+    "source": "https://freesound.org/people/Wakerone/sounds/435651/"
+  },
+  "step_1": {
+    "file": "step_1.mp3",
+    "loop": false,
+    "gain": 0.95,
+    "license": "CC0",
+    "author": "Vrymaa",
+    "source": "https://freesound.org/people/Vrymaa/sounds/734600/"
+  },
+  "step_2": {
+    "file": "step_2.mp3",
+    "loop": false,
+    "gain": 0.95,
+    "license": "CC0",
+    "author": "Vrymaa",
+    "source": "https://freesound.org/people/Vrymaa/sounds/734600/"
+  },
+  "step_3": {
+    "file": "step_3.mp3",
+    "loop": false,
+    "gain": 0.95,
+    "license": "CC0",
+    "author": "Vrymaa",
+    "source": "https://freesound.org/people/Vrymaa/sounds/734600/"
+  },
+  "step_4": {
+    "file": "step_4.mp3",
+    "loop": false,
+    "gain": 0.95,
+    "license": "CC0",
+    "author": "Vrymaa",
+    "source": "https://freesound.org/people/Vrymaa/sounds/734600/"
+  },
+  "step_5": {
+    "file": "step_5.mp3",
+    "loop": false,
+    "gain": 0.95,
+    "license": "CC0",
+    "author": "Vrymaa",
+    "source": "https://freesound.org/people/Vrymaa/sounds/734600/"
+  },
+  "step_6": {
+    "file": "step_6.mp3",
+    "loop": false,
+    "gain": 0.95,
+    "license": "CC0",
+    "author": "Vrymaa",
+    "source": "https://freesound.org/people/Vrymaa/sounds/734600/"
+  },
+  "stinger_1": {
+    "file": "stinger_1.mp3",
+    "loop": false,
+    "gain": 0.9,
+    "license": "CC-BY 3.0",
+    "author": "SirBedlam",
+    "source": "https://freesound.org/people/SirBedlam/sounds/393824/"
+  },
+  "stinger_2": {
+    "file": "stinger_2.mp3",
+    "loop": false,
+    "gain": 0.9,
+    "license": "CC-BY 3.0",
+    "author": "SirBedlam",
+    "source": "https://freesound.org/people/SirBedlam/sounds/124955/"
+  },
+  "sub_hit": {
+    "file": "sub_hit.mp3",
+    "loop": false,
+    "gain": 0.9,
+    "license": "CC0",
+    "author": "rhapsodize",
+    "source": "https://freesound.org/people/rhapsodize/sounds/255111/"
+  },
+  "switch_click": {
+    "file": "switch_click.mp3",
+    "loop": false,
+    "gain": 0.85,
+    "license": "CC0",
+    "author": "baidonovan",
+    "source": "https://freesound.org/people/baidonovan/sounds/187335/"
+  },
+  "thunder_1": {
+    "file": "thunder_1.mp3",
+    "loop": false,
+    "gain": 1.0,
+    "license": "CC0",
+    "author": "csengeri",
+    "source": "https://freesound.org/people/csengeri/sounds/434359/"
+  },
+  "thunder_2": {
+    "file": "thunder_2.mp3",
+    "loop": false,
+    "gain": 0.85,
+    "license": "CC0",
+    "author": "Yoyodaman234",
+    "source": "https://freesound.org/people/Yoyodaman234/sounds/253953/"
+  },
+  "thunder_3": {
+    "file": "thunder_3.mp3",
+    "loop": false,
+    "gain": 0.6,
+    "license": "CC0",
+    "author": "Fission9",
+    "source": "https://freesound.org/people/Fission9/sounds/581125/"
+  },
+  "tinnitus": {
+    "file": "tinnitus.mp3",
+    "loop": false,
+    "gain": 0.4,
+    "license": "CC0",
+    "author": "dbdarby",
+    "source": "https://freesound.org/people/dbdarby/sounds/365956/"
+  },
+  "tv_static": {
+    "file": "tv_static.mp3",
+    "loop": true,
+    "gain": 0.35,
+    "license": "CC0",
+    "author": "Les Blachut",
+    "source": "https://freesound.org/people/Les%20Blachut/sounds/523542/"
+  },
+  "whisper_1": {
+    "file": "whisper_1.mp3",
+    "loop": false,
+    "gain": 0.6,
+    "license": "CC0",
+    "author": "geoneo0",
+    "source": "https://freesound.org/people/geoneo0/sounds/193818/"
+  },
+  "whisper_2": {
+    "file": "whisper_2.mp3",
+    "loop": false,
+    "gain": 0.6,
+    "license": "CC0",
+    "author": "dimbark1",
+    "source": "https://freesound.org/people/dimbark1/sounds/316797/"
+  },
+  "whisper_3": {
+    "file": "whisper_3.mp3",
+    "loop": false,
+    "gain": 0.6,
+    "license": "CC0",
+    "author": "qubodup",
+    "source": "https://freesound.org/people/qubodup/sounds/194628/"
+  }
+}
